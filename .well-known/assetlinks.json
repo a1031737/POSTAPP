@@ -3,6 +3,7 @@
   "target": {
     "namespace": "android_app",
     "package_name": "tw.org.itri.sstc.mpost",
-    "sha256_cert_fingerprints": ["AA:68:85:67:A9:65:91:11:A0:58:6C:6A:31:B1:C2:DD:7D:27:6F:5D:86:79:9A:91:2E:A5:01:DA:67:9C:6E:04"]
+    "sha256_cert_fingerprints":
+    ["AA:68:85:67:A9:65:91:11:A0:58:6C:6A:31:B1:C2:DD:7D:27:6F:5D:86:79:9A:91:2E:A5:01:DA:67:9C:6E:04"]
   }
 }]
